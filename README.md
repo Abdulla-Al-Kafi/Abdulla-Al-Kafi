@@ -16,6 +16,8 @@
 <br />
 
 ---
+[![Kafi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Kafi)](https://github.com/anuraghazra/github-readme-stats)
+---
 
 ### GitHub Stats
 
