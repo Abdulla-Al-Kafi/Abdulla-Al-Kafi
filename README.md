@@ -1,10 +1,10 @@
 ### Hi there, I'm [Abdulla-Al-Kafi!] 👋
 
-## I'm a Computer Science Student at Brac University and a self taught Developer!!
+## I'm a Computer Science Student at Brac University currently playing with Data science & ML concepts!!
 
-- ✔ I’m currently learning everything 😢
-- 🥅 2021 Goals: Contribute to Open Source projects 🧨🧨
-- ⚡ Hobbies: I love to create new projects and play games.
+
+- 🥅 2022-23 Goals: Become a self tought ml specialist 
+
   <br />
   <br />
 
