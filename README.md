@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently exploring the field of **AI**
 
-- 🌱 I’m currently learning **HTML,CSS and Python libraries for ML e.g. NumPy, Pandas, Matplotlib etc.**
+- 🌱 I’m currently learning **ML Algorithms and Implementation**
 
 - 📫 How to reach me **abdullaalkafi99@gmail.com**
 
